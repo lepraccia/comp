@@ -1,0 +1,27 @@
+/* src/components/Card/Card.css */
+.card {
+  padding: 20px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  background-color: #fff;
+  margin: 10px 0;
+}
+
+.card-header {
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+}
+
+.card-title {
+  margin: 0;
+  font-size: 24px;
+  color: #ffffff;
+}
+
+.card-content {
+  font-size: 16px;
+  color: #555;
+}
+

@@ -1,0 +1,19 @@
+/* src/components/Input/Input.css */
+.input {
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.input:focus {
+  border-color: #007bff;
+  outline: none;
+}
+
+.input:disabled {
+  background-color: #f0f0f0;
+}
+
